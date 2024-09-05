@@ -1,0 +1,37 @@
+2024-09-04 00:00:39.862 +05:30 [ERR] The instance of entity type 'ServiceRequest' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+2024-09-04 00:04:43.685 +05:30 [INF] Now listening on: https://localhost:7047
+2024-09-04 00:04:43.746 +05:30 [INF] Now listening on: http://localhost:5278
+2024-09-04 00:04:43.855 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-04 00:04:43.857 +05:30 [INF] Hosting environment: Development
+2024-09-04 00:04:43.857 +05:30 [INF] Content root path: C:\Users\VigneshKarunanithi\source\repos\ServiceRequestDemo\ServiceRequestDemo
+2024-09-04 00:11:51.975 +05:30 [INF] Now listening on: https://localhost:7047
+2024-09-04 00:11:52.029 +05:30 [INF] Now listening on: http://localhost:5278
+2024-09-04 00:11:52.098 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-04 00:11:52.099 +05:30 [INF] Hosting environment: Development
+2024-09-04 00:11:52.099 +05:30 [INF] Content root path: C:\Users\VigneshKarunanithi\source\repos\ServiceRequestDemo\ServiceRequestDemo
+2024-09-04 00:19:28.541 +05:30 [INF] Now listening on: https://localhost:7047
+2024-09-04 00:19:28.569 +05:30 [INF] Now listening on: http://localhost:5278
+2024-09-04 00:19:28.627 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-04 00:19:28.627 +05:30 [INF] Hosting environment: Development
+2024-09-04 00:19:28.627 +05:30 [INF] Content root path: C:\Users\VigneshKarunanithi\source\repos\ServiceRequestDemo\ServiceRequestDemo
+2024-09-04 00:20:48.764 +05:30 [INF] Now listening on: https://localhost:7047
+2024-09-04 00:20:48.838 +05:30 [INF] Now listening on: http://localhost:5278
+2024-09-04 00:20:48.929 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-04 00:20:48.930 +05:30 [INF] Hosting environment: Development
+2024-09-04 00:20:48.930 +05:30 [INF] Content root path: C:\Users\VigneshKarunanithi\source\repos\ServiceRequestDemo\ServiceRequestDemo
+2024-09-04 00:25:59.717 +05:30 [INF] Now listening on: https://localhost:7047
+2024-09-04 00:25:59.759 +05:30 [INF] Now listening on: http://localhost:5278
+2024-09-04 00:25:59.822 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-04 00:25:59.822 +05:30 [INF] Hosting environment: Development
+2024-09-04 00:25:59.822 +05:30 [INF] Content root path: C:\Users\VigneshKarunanithi\source\repos\ServiceRequestDemo\ServiceRequestDemo
+2024-09-04 00:28:42.350 +05:30 [INF] Now listening on: https://localhost:7047
+2024-09-04 00:28:42.387 +05:30 [INF] Now listening on: http://localhost:5278
+2024-09-04 00:28:42.453 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-04 00:28:42.454 +05:30 [INF] Hosting environment: Development
+2024-09-04 00:28:42.454 +05:30 [INF] Content root path: C:\Users\VigneshKarunanithi\source\repos\ServiceRequestDemo\ServiceRequestDemo
+2024-09-04 00:29:19.987 +05:30 [ERR] The instance of entity type 'ServiceRequest' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+2024-09-04 00:30:19.148 +05:30 [INF] Now listening on: https://localhost:7047
+2024-09-04 00:30:19.183 +05:30 [INF] Now listening on: http://localhost:5278
+2024-09-04 00:30:19.237 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-04 00:30:19.237 +05:30 [INF] Hosting environment: Development
+2024-09-04 00:30:19.237 +05:30 [INF] Content root path: C:\Users\VigneshKarunanithi\source\repos\ServiceRequestDemo\ServiceRequestDemo

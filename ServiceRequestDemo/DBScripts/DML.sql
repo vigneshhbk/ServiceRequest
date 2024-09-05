@@ -1,0 +1,11 @@
+﻿CREATE TABLE ServiceRequest (
+	Id UNIQUEIDENTIFIER NOT NULL,
+	BuildingCode NVARCHAR(10) NOT NULL,
+	Description NVARCHAR(1000) NOT NULL,
+	CurrentStatus INT NOT NULL,
+	CreatedBy VARCHAR(50) NOT NULL,
+	CreatedDate DATETIME NOT NULL,
+	LastModifiedBy VARCHAR(50) NOT NULL,
+	LastModifiedDate DATETIME NULL,
+	CONSTRAINT pk_ServiceRequestId PRIMARY KEY (Id)
+);

@@ -1,0 +1,12 @@
+
+*.bin
+*.v2
+*.vsidx
+*.manifest
+*.dll
+*.pdb
+/.vs
+/ServiceRequestDemo.Tests/bin
+/ServiceRequestDemo.Tests/obj
+/ServiceRequestDemo/bin
+/ServiceRequestDemo/obj
